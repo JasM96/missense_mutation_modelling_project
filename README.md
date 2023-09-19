@@ -12,7 +12,7 @@ Refer to the README.md within the SETUP directory for more information.
 
 Linux or OSX
 
-## Software Licensing information
+## Software Licensing Information
 
 Any software provided is done so under academic license. Do not use any software provided within this project for commerical purposes.
 
