@@ -1,0 +1,6 @@
+GLY
+SER
+CYS
+MET
+ILE
+ARG
